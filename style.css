@@ -1,0 +1,39 @@
+:root {
+font-family: 'Orbitron', sans-serif;
+}
+span {
+    font-weight: bold;
+}
+h1 {
+    font-size: 50px;
+}
+h1 {
+    letter-spacing: 50px;
+    
+}
+h1 {
+    text-align: center;
+}
+h1 {
+    text-transform: capitalize;
+}
+h1 {
+    text-decoration: underline;
+}
+#series-movies {
+    font-size: 20px;
+}
+h2 {
+    font-size: 2em;
+}
+li {
+    line-height: 2;
+}
+#characters {
+    font-size: 18px;
+}
+h4 {
+    letter-spacing: 15px;
+}
+
+font-family: 'Press Start 2P', cursive;
